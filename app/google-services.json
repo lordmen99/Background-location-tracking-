@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472458412960",
+    "firebase_url": "https://elias-acb7f.firebaseio.com",
+    "project_id": "elias-acb7f",
+    "storage_bucket": "elias-acb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472458412960:android:865e77232fbe33dc",
+        "android_client_info": {
+          "package_name": "com.example.dcl.loctask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472458412960-pb5g1aq9ou9lvc95jbll52pa2hqfr9ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dcl.loctask",
+            "certificate_hash": "b0846336ee6d58153fcb88a3a8c27fc5f5bcdd5d"
+          }
+        },
+        {
+          "client_id": "472458412960-m0tg3r4shp2l31rr758336ln3g67p4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24RMzxRSOQtl1TXDfUiIHNtv89Fx5JJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472458412960-m0tg3r4shp2l31rr758336ln3g67p4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
